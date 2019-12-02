@@ -1,6 +1,6 @@
 {
   "name": "create-react-redux-thunk-app",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "node-sass": "^4.12.0",
